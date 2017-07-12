@@ -4,7 +4,7 @@ date: 2017-07-06 21:51:34
 tags: spring
 categories: spring
 thumbnail: http://osewdhh4j.bkt.clouddn.com/20170706211340.png
-blogexcerpt: 使用quartz中遇到的问题，Caused by org.quartz.JobPersistenceException  Couldn't store job  FUNCTION ××××.EMPTY_BLOB does not exist
+description: 使用quartz中遇到的问题，Caused by org.quartz.JobPersistenceException  Couldn't store job  FUNCTION ××××.EMPTY_BLOB does not exist. Spring3.1以上的版本才能用quartz2.X的版本，Spring3.1以下的版本（不包括3.1)只能用quartz1.X版本。否则就报"java.lang.IncompatibleClassChangeError:class org.springframework.scheduling.quartz.JobDetailBean has interface org.quartz.JobDetail as super class"这样的错误
 ---
 
 

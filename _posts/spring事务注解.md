@@ -4,7 +4,7 @@ date: 2017-06-28 21:32:21
 tags: spring
 categories: spring
 thumbnail: http://osewdhh4j.bkt.clouddn.com/spring.png
-blogexcerpt: 在service类前加上@Transactional，声明这个service所有方法需要事务管理。每一个业务方法开始时都会打开一个事务。Spring默认情况下会对运行期例外(RunTimeException)进行事务回滚。这个例外是**unchecked** ,如果遇到checked意外就不回滚.
+description: 在service类前加上@Transactional，声明这个service所有方法需要事务管理。每一个业务方法开始时都会打开一个事务。Spring默认情况下会对运行期例外(RunTimeException)进行事务回滚。这个例外是**unchecked** ,如果遇到checked意外就不回滚.
 ---
 
 **Spring事务的传播行为**

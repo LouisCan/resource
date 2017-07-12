@@ -4,7 +4,7 @@ date: 2017-07-05 21:39:47
 tags: 测试
 categories: 测试
 thumbnail: http://osewdhh4j.bkt.clouddn.com/20170705214256.png
-blogexcerpt: webbench首先fork出多个子进程，每个子进程都循环做web访问测试。子进程把访问的结果通过pipe告诉父进程，父进程做最终的统计结果。
+description: webbench首先fork出多个子进程，每个子进程都循环做web访问测试。子进程把访问的结果通过pipe告诉父进程，父进程做最终的统计结果。
 ---
 
 ## 基本原理

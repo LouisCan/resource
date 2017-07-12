@@ -1,28 +1,21 @@
----
-title: 实验室
-date: 2016-02-01 20:29:57
-pageid: lab
 
-projects:
-    blog_demo:
-        title: Blog Demo
-        time: 2016-10-10
-        content: 
-            1:
-                name: 基于 vue + vuex + bootstrap 的 blog demo
-                link: https://github.com/jangdelong/vue-blog-demo
-    hexo_theme_xups:
-        title: hexo-theme-xups 博客主题
-        time: 2016-03-12
-        content:
-            1:
-                name: 基于 hexo 静态博客系统的 博客主题 xups
-                link: https://github.com/jangdelong/hexo-theme-xups
-    typecho_theme_xups:
-        title: Typecho 博客主题
-        time: 2015-10-15
-        content: 
-            1:        
-                name: 基于 php 博客系统 typecho 的主题 xups
-                link: https://github.com/jangdelong/typecho-theme-xups  
----
+`1`  **站内资源百度云盘下载** [http://blogxinxiucan.sh1.newtouch.com/baiduyun/](http://blogxinxiucan.sh1.newtouch.com/baiduyun/)
+
+
+<br/><br/><br/>
+
+
+
+
+<!--PC版-->
+<div id="SOHUCS" sid="lab20170705"></div>
+<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+window.changyan.api.config({
+appid: 'cyt4MuLGq',
+conf: 'prod_8287cf86c4ae41b3bae429adf7b76fde'
+});
+</script>
+
+
+

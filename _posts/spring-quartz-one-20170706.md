@@ -4,7 +4,7 @@ date: 2017-07-06 21:10:47
 tags: spring
 categories: spring
 thumbnail: http://osewdhh4j.bkt.clouddn.com/20170706211340.png
-blogexcerpt: Quartz是一个完全由Java编写的开源作业调度框架，为在Java应用程序中进行作业调度提供了简单却强大的机制。Quartz允许开发人员根据时间间隔来调度作业。它实现了作业和触发器的多对多的关系，还能把多个作业与不同的触发器关联。简单地创建一个org.quarz.Job接口的Java类，在Job接口实现类里面，添加需要的逻辑到execute()方法中。配置好Job实现类并设定好调度时间表，Quartz就会自动在设定的时间调度作业执行execute()。
+description: Quartz是一个完全由Java编写的开源作业调度框架，为在Java应用程序中进行作业调度提供了简单却强大的机制。Quartz允许开发人员根据时间间隔来调度作业。它实现了作业和触发器的多对多的关系，还能把多个作业与不同的触发器关联。简单地创建一个org.quarz.Job接口的Java类，在Job接口实现类里面，添加需要的逻辑到execute()方法中。配置好Job实现类并设定好调度时间表，Quartz就会自动在设定的时间调度作业执行execute()。
 ---
 
 

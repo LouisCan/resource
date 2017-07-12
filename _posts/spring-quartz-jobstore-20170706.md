@@ -4,7 +4,7 @@ date: 2017-07-06 21:43:18
 tags: spring
 categories: spring
 thumbnail: http://osewdhh4j.bkt.clouddn.com/20170706211340.png
-blogexcerpt: JobStore是负责跟踪调度器中所有的工作数据：作业任务、触发器、日历等。
+description: JobStore是负责跟踪调度器中所有的工作数据：作业任务、触发器、日历等。RAMJobStore 是使用上最简单的 JobStore，它也拥有最高的性能（从 CPU 时间来计算）。DBCJobStore 将所有的数据通过 JDBC 保存到数据库中。因此，配置上比 RAMJobStore 稍微复杂一些，它的速度也比较慢。TerracottaJobStore 提供了一种不使用数据库，并且灵活的和健壮的手段。
 ---
 
 

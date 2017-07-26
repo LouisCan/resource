@@ -3,7 +3,7 @@ title: kafkaManager 安装
 date: 2017-07-11 22:57:50
 tags: kafka
 categories: 大数据
-thumbnail: http://osewdhh4j.bkt.clouddn.com/20170712154016.png
+thumbnail: http://osewdhh4j.bkt.clouddn.com/kafkaManager%E5%AE%89%E8%A3%85.png
 keywords: kafka,kafka安装,kafka安装部署,中间件,kafka Manager,kafkaManager
 description: kafka Manager 用于管理Apache Kafka的工具,code地址-https://github.com/yahoo/kafka-manager
 ---
@@ -11,6 +11,8 @@ description: kafka Manager 用于管理Apache Kafka的工具,code地址-https://
 ## Kafka Manager 安装
 
 **Kafka Manager是用于管理Apache Kafka的工具**。
+
+![](http://osewdhh4j.bkt.clouddn.com/kafkaManager%E5%AE%89%E8%A3%85.png)
 
 `code` 地址：https://github.com/yahoo/kafka-manager
 

@@ -2,9 +2,8 @@
 title: Hello
 categories: 个人
 date: 2017-06-27 21:02:26
-tags: [me,hello,me hello] 
+tags: me 
 keywords: 辛修灿
-description: 辛修灿的个人博客
 thumbnail: http://osewdhh4j.bkt.clouddn.com/helloworld.png
 ---
 

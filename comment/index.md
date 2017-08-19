@@ -1,14 +1,12 @@
 <!-- 自定义留言页 -->
 
-<p class="text-center">
-  <img style="width: 258px; height: 258px; border: 1px solid #eee; padding: 0; border-radius: 3px;" src="http://osausq2jb.bkt.clouddn.com/wechat_xin.png">
-&nbsp;&nbsp;&nbsp;&nbsp;
-  <img style="width: 258px; height: 258px; border: 1px solid #eee; padding: 0; border-radius: 3px;" src="http://osausq2jb.bkt.clouddn.com/wechat_mp.jpg">
-</p>
+<h3 class="widget-hd"><strong>微信公众号</strong></h3>
 
-<p class="text-center">
-  个人微信号和公众号,若加我微信请注明来源
-</p>
+### it全能程序猿
+
+ <img style="border: 1px solid #eee; padding: 0; border-radius: 3px;" src="http://osausq2jb.bkt.clouddn.com/qrcode_for_gh_f8de8f2a2436_344.jpg">
+
+
 
 <br/><br/><br/>
 

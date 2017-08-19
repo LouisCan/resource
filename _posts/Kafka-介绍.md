@@ -3,7 +3,7 @@ title: Kafka 介绍
 date: 2017-07-10 19:53:04
 tags: kafka
 categories: 大数据
-thumbnail: http://osewdhh4j.bkt.clouddn.com/20170710191038.png
+thumbnail: http://osewdhh4j.bkt.clouddn.com/20170805205013.png
 keywords: 辛修灿,Kafka,kafka介绍,xinxiucan,blogxinxiucan
 description: Apache Kafka是一个分布式发布 -订阅消息系统和一个强大的队列，可以处理大量的数据，并使您能够将消息从一个端点传递到另一个端点。Kafka适合离线和在线消息消费。Kafka消息保留在磁盘上，并在群集内复制以防止数据丢失。
 ---
